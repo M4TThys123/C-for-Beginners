@@ -1,0 +1,15 @@
+C:\Users\Bulbmanager\Documents\C# for Beginners\bin\Debug\net6.0\C# for Beginners.exe
+C:\Users\Bulbmanager\Documents\C# for Beginners\bin\Debug\net6.0\C# for Beginners.deps.json
+C:\Users\Bulbmanager\Documents\C# for Beginners\bin\Debug\net6.0\C# for Beginners.runtimeconfig.json
+C:\Users\Bulbmanager\Documents\C# for Beginners\bin\Debug\net6.0\C# for Beginners.dll
+C:\Users\Bulbmanager\Documents\C# for Beginners\bin\Debug\net6.0\C# for Beginners.pdb
+C:\Users\Bulbmanager\Documents\C# for Beginners\obj\Debug\net6.0\C# for Beginners.csproj.AssemblyReference.cache
+C:\Users\Bulbmanager\Documents\C# for Beginners\obj\Debug\net6.0\C# for Beginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulbmanager\Documents\C# for Beginners\obj\Debug\net6.0\C# for Beginners.AssemblyInfoInputs.cache
+C:\Users\Bulbmanager\Documents\C# for Beginners\obj\Debug\net6.0\C# for Beginners.AssemblyInfo.cs
+C:\Users\Bulbmanager\Documents\C# for Beginners\obj\Debug\net6.0\C# for Beginners.csproj.CoreCompileInputs.cache
+C:\Users\Bulbmanager\Documents\C# for Beginners\obj\Debug\net6.0\C# for Beginners.dll
+C:\Users\Bulbmanager\Documents\C# for Beginners\obj\Debug\net6.0\refint\C# for Beginners.dll
+C:\Users\Bulbmanager\Documents\C# for Beginners\obj\Debug\net6.0\C# for Beginners.pdb
+C:\Users\Bulbmanager\Documents\C# for Beginners\obj\Debug\net6.0\C# for Beginners.genruntimeconfig.cache
+C:\Users\Bulbmanager\Documents\C# for Beginners\obj\Debug\net6.0\ref\C# for Beginners.dll
